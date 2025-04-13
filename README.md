@@ -24,14 +24,14 @@
    git clone https://github.com/your-username/Inventory-Management-System-CPP.git
    ```
 2. Compile (G++):
-```bash
-g++ "Programming Project.cpp" -o inventory
-```
+   ```bash
+   g++ "Programming Project.cpp" -o inventory
+   ```
 
 3. Execute:
-```bash
-./inventory
-```
+   ```bash
+   ./inventory
+   ```
 
 ## 🖥️ Menu Options
 - Add Product
@@ -42,16 +42,16 @@ g++ "Programming Project.cpp" -o inventory
 - Restock Alerts
 
 ## 📊 Data Structure
-class Product {
-  string name;
-  int price, amount;
-  // Methods: NewProduct(), Search(), Category()
-};
+class Product {                                
+  string name;                             
+  int price, amount;                                
+  // Methods: NewProduct(), Search(), Category()                                                   
+};                               
 
-class Customer : public Product {
-  string FirstName, LastName, email, payment;
-  // Methods: AddCustomer(), EditCustomer(), Purchase()
-};
+class Customer : public Product {                      
+  string FirstName, LastName, email, payment;                      
+  // Methods: AddCustomer(), EditCustomer(), Purchase()                                   
+};                       
 
 ## 📝 Notes
 - Data is stored in plaintext files (no database).
