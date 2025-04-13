@@ -1,0 +1,162 @@
+Air-purifier
+1000 5
+Large-appliances
+Air-conditioner
+2000 5
+Large-appliances
+Alarm-clock
+20 2
+Small-appliances
+Backup-charger
+10 5
+Gadgets
+Bread-maker
+50 6
+Kitchen-appliances
+Banknote-counter
+65 5
+Small-appliances
+Blender
+100 2
+Kitchen-appliances
+Bluetooth-speaker
+55 2
+Gadgets
+Ceiling-fan
+2000 3
+Large-appliances
+Clothes-dryer
+5000 5
+Large-appliances
+Coffee-maker
+2000 5
+Kitchen-appliances
+Computer
+1500 6
+Gadgets
+Copier
+1500 5
+Gadgets
+Digital-camera
+600 6
+Gadgets
+Dishwasher
+1000 3
+Kitchen-appliances
+Doorbell-camera
+20 4
+Gadgets
+Drill
+30 9
+Gadgets
+DVD-player
+50 2
+Gadgets
+Earphones
+100 3
+Gadgets
+Electric-frying-pan
+100 0
+Kitchen-appliances
+Electric-grill
+100 6
+Kitchen-appliances
+Electric-guitar
+100 4
+Small-appliances
+Electric-pencil-sharpener
+200 5
+Gadgets
+Electric-razor
+200 5
+Gadgets
+Electric-stove
+200 1
+Kitchen-appliances
+Exhaust-fan
+100 2
+Large-appliances
+External-hard-drive
+50 1
+Gadgets
+Fax
+100 0
+Small-appliances
+Floor-lamp
+20 1
+Small-appliances
+Game-controller
+20 0
+Gadgets
+Hair-dryer
+12 1
+Gadgets
+Headset
+23 0
+Gadgets
+Inkjet-printer
+36 0
+Small-appliances
+iPod
+36 4
+Gadgets
+Iron
+200 1
+Small-appliances
+Juicer
+89 3
+Kitchen-appliances
+Kettle
+74 5
+Kitchen-appliances
+Kitchen-scale
+25 2
+Kitchen-appliances
+Hair-straightening-machine
+22 5
+Small-appliances
+Laser-printer
+200 9
+Small-appliances
+Meat-grinder
+120 4
+Kitchen-appliances
+Microphone
+211 2
+Gadgets
+Microwave
+254 5
+Kitchen-appliances
+Mixer
+54 6
+Kitchen-appliances
+Monitor
+256 8
+Small-appliances
+Mouse
+20 2
+Gadgets
+MP3-player
+20 0
+Gadgets
+USB-drive
+20 1
+Gadgets
+Laptop
+2000 5
+Gadgets
+Charger
+41 8
+Gadgets
+Phone
+51 2
+Gadgets
+Speaker
+60 8
+Gadgets
+Powerbank
+50 4
+TV
+2000 2
+pc
+200000 2
