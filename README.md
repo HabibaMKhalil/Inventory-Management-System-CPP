@@ -55,7 +55,7 @@ class Customer : public Product {
 
 ## 📝 Notes
 - Data is stored in plaintext files (no database).
-- For production use, consider adding:
+- For production use, consider adding:                                                                     
   -Input validation                          
   -Error handling                               
   -Encryption for sensitive data                                 
