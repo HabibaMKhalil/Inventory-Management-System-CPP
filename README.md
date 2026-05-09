@@ -1,24 +1,24 @@
-# 🛒 Inventory Management System (C++)  
+#  Inventory Management System (C++)  
 
 *A console-based inventory system with customer/product management, sales tracking, and restock alerts*  
 
-## ✨ Features  
+##  Features  
 - **Product Management**: Add/search products by category (Large/Small/Kitchen Appliances, Gadgets)  
 - **Customer Management**: Add/edit customer details (name, email, payment method)  
 - **Sales Processing**: Record purchases/returns with automatic stock updates  
 - **Inventory Alerts**: Restock recommendations for low-quantity items  
 - **File Persistence**: All data saved in `.txt` files (`Customer details.txt`, `Product Names.txt`)  
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 - **C++17** (OOP, file handling)  
 - Standard Library (`<fstream>`, `<iostream>`, `<string>`)  
 
-## 📂 Files  
+##  Files  
 - `Programming Project.cpp`: Main program  
 - `Customer details.txt`: Customer database  
 - `Product Names.txt`: Product catalog (name, price, quantity, category)  
 
-## 🚀 How to Run  
+##  How to Run  
 1. Clone the repo:  
    ```bash
    git clone https://github.com/your-username/Inventory-Management-System-CPP.git
@@ -33,7 +33,7 @@
    ./inventory
    ```
 
-## 🖥️ Menu Options
+##  Menu Options
 - Add Product
 - Search Product
 - Browse by Category
@@ -41,7 +41,7 @@
 - Process Purchase/Return
 - Restock Alerts
 
-## 📊 Data Structure
+##  Data Structure
 class Product {                                
   string name;                             
   int price, amount;                                
